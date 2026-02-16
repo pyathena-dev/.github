@@ -20,4 +20,4 @@ A Python [DB API 2.0 (PEP 249)](https://peps.python.org/pep-0249/) client for [A
 - Async query execution
 - fsspec-compatible S3 filesystem
 
-**[Documentation](https://pyathena-dev.github.io/PyAthena/)** | **[PyPI](https://pypi.org/project/PyAthena/)** | **[Source](https://github.com/pyathena-dev/PyAthena)**
+**[Documentation](https://pyathena.dev/)** | **[PyPI](https://pypi.org/project/PyAthena/)** | **[Source](https://github.com/pyathena-dev/PyAthena)**
